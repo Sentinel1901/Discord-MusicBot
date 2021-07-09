@@ -1,4 +1,4 @@
-const { MessageEmbed } = require("discord.js");
+ { MessageEmbed } = require("discord.js");
 
 module.exports = {
     name: "youtube",
